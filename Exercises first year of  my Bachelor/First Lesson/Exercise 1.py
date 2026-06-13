@@ -10,5 +10,4 @@ name_product=input("")
 print("Please to enter the price of the product : ")
 price_product=float(input(""))
 add_value=price_product*ttc
-ttc_price=price_product+add_value
-print(f"The ttc price of {name_product} is : {ttc_price}")
+print(f"The ttc price is : {ttc_price}")
